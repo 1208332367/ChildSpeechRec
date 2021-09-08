@@ -1,0 +1,5 @@
+xlrd==1.2.0
+Levenshtein
+xpinyin
+numpy
+matplotlib

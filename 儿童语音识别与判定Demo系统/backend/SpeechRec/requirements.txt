@@ -1,0 +1,9 @@
+Django==3.0.6 -i https://pypi.tuna.tsinghua.edu.cn/simple
+django-cors-headers
+redis==2.10.6
+django-redis
+pytest-shutil
+xlrd==1.2.0
+Levenshtein
+xpinyin
+requests
